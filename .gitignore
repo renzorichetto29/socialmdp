@@ -1,0 +1,9 @@
+# Los datos en claro NUNCA se suben: si van al repo, el cifrado deja de servir.
+NO-SUBIR/
+datos-en-claro.json
+
+# Basura del sistema
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
